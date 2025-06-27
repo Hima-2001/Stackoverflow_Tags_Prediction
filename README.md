@@ -20,7 +20,7 @@ text
 ### 1. Clone the repository
 
 
-git clone https://github.com/VodnalaNaveen/Enhancing_Developer_Support_Automated_Tagging_on_Stack_Overflow.git
+git clone https://github.com/Hima-2001/Stackoverflow_Tags_Prediction.git
 cd Enhancing_Developer_Support_Automated_Tagging_on_Stack_Overflow
 
 
